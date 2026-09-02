@@ -1,0 +1,25 @@
+# Artefacts de simulation
+*.fst
+*.vcd
+*.elf
+*.o
+*.bin
+*.map
+build/
+sim-verilator/
+obj_dir/
+
+# Sorties d'analyse
+*.png
+*.pdf
+results/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Éditeurs / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp

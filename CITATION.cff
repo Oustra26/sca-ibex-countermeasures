@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce travail, merci de le citer comme suit."
+title: "Contre-mesures aux attaques par canaux auxiliaires sur le cœur RISC-V Ibex"
+abstract: >-
+  Matériel de reproduction pour l'étude comparative de cinq versions du cœur RISC-V
+  Ibex (base, masquage booléen, randomisation temporelle, équilibrage dual-rail,
+  hybride) évaluées par CPA, DPA et TVLA en simulation RTL.
+type: software
+authors:
+  - family-names: "TRAORÉ"
+    given-names: "Ousmane"
+    affiliation: "École Normale d'Enseignement Technique et Professionnel (ENETP), Bamako, Mali"
+license: Apache-2.0
+repository-code: "https://github.com/Oustra26/sca-ibex-countermeasures"
+keywords:
+  - side-channel analysis
+  - RISC-V
+  - Ibex
+  - masking
+  - dual-rail
+  - CPA
+  - DPA
+  - TVLA
