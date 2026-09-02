@@ -58,7 +58,7 @@ docs/      build_and_run.md         procédure complète pas à pas
 Ce travail est basé sur le dépôt [lowRISC/ibex](https://github.com/lowRISC/ibex),
 configuré en **RV32IMC**.
 
-> **Commit de référence : `À COMPLÉTER`**
+> **Commit de référence : `86a303b2b74fe4e77715441303eaff1e430522f2`**
 > À relever avec `git rev-parse HEAD` dans votre copie du dépôt Ibex.
 > Sans cette information, les adresses de programme utilisées par les déclencheurs
 > ne correspondront pas, car elles dépendent du code généré par le compilateur.
